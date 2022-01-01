@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Art
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Art\ here.\r\n\ title\ for\ main\ method\ is\ drawGM\ because\ I\ am\ drawing\ the\ GM\ logo\ in\ this\r\n\r\n\ @author\ Jacob\ Neiheisel\r\n\ @for_class\:\ CIS\ 162\ section\ 09\ Professor\ Posada\r\n\ @version\ 29\ August\ 2020\ edition\r\n
+comment1.params=
+comment1.target=void\ drawGM()
+numComments=2
